@@ -91,7 +91,3 @@ saveWidget(
 )
 
 
-install.packages("h2o")
-
-install.packages("h2o", type = "source",
-                 repos = "https://h2o-release.s3.amazonaws.com/h2o/latest_stable_R")
